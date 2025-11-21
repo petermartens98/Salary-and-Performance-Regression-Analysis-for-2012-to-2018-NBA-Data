@@ -121,26 +121,6 @@ These plots provide clear insights into league-wide patterns and the influence o
 
 ---
 
-## 🛠 Running the Analysis
-
-1. Clone the repository
-
-2. Install requirements:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Run all cells to reproduce the models, tables, and plots.
-
----
-
 
 ## 🏁 Summary
 
